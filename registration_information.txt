@@ -1,0 +1,10 @@
+User: <username>
+Pass: <password>
+Registration_Open_Time: 00:00:00
+CRN_1: 
+CRN_2: 
+CRN_3: 
+CRN_4: 
+CRN_5: 
+//if you don't need to use all 5 CRNs, delete the unused line(s) entirely or leave them blank
+//add the Registration_Open_Time as hours[colon]minutes[colon]seconds in 24hr time <example provided>
